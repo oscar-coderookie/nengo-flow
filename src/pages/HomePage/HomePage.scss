@@ -1,3 +1,5 @@
+
+
 .homepage{
 
     &-block{
@@ -11,9 +13,12 @@
     }
     
     &-title {
-        font-size: 40px;
+        font-size: 60px;
+        width: 400px;
         margin-left: 40px;
-        font-weight: bold;
+        line-height: 1;
+        font-weight: 300;
+        font-family: 'Noto Serif Oriya', serif;;
         color: white;
         text-shadow: 4px 4px 8px  black;
     }
